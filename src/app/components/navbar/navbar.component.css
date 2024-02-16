@@ -1,0 +1,43 @@
+.navbar {
+  padding: 0 1rem;
+}
+
+.nav-item {
+  padding: 0.4rem;
+}
+
+.nav-link {
+  color: #fff !important;
+}
+
+.nav-no-link {
+  padding: 0.4rem;
+}
+
+.navbar-brand {
+  width: 30px;
+}
+
+.img-logo {
+  top: 0px;
+  position: absolute;
+  background-color: #fff;
+  padding: 3px;
+  width: 36px;
+  height: 56px;
+  box-shadow: (0 4px 8px 0 rgba(0, 0, 0, 0.35));
+}
+
+.user-content {
+  min-width: 250px;
+  color: #fff;
+}
+
+.user-header {
+  font-size: 18px;
+  background-color: #de7d2b padding 10px;
+}
+
+.user-name {
+  display: block;
+}
